@@ -748,7 +748,7 @@ public class App {
                     <i class="fas fa-calendar-star"></i>
                 </div>
                 <div class="date-content">
-                    <span class="date-label">🚀 Training Begins</span>
+                    <span class="date-label">🚀 Training Starts From</span>
                     <div class="date-main">29 January 2026</div>
                 </div>
             </div>

@@ -734,7 +734,7 @@ public class App {
         </div>
         
         <div class="title-container">
-            <h1>GitHub Actions + Kubernetes</h1>
+            <h1> AWS DevOps Traning With StealthcoderX </h1>
         </div>
         
         <p class="hero-subtitle">

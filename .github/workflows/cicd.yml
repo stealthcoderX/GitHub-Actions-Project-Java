@@ -40,4 +40,4 @@ jobs:
           #Run the Container
           docker run -d -p 8080:8080 --name javaapp ${{secrets.DOCKERHUB_USERNAME}}/java-docker-app:latest
           #Show running containers
-          docker ps
+          docker ps -a

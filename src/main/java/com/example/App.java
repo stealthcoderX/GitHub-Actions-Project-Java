@@ -719,7 +719,7 @@ public class App {
         
         <!-- Announcement Badge -->
         <div class="batch-announcement">
-            🎉 Announcing New Batch On
+            🎉 Announcing New Batch Of STEALTHCODERX
         </div>
         
         <div class="main-icons">
@@ -886,7 +886,7 @@ public class App {
                 </div>
                 <div class="contact-title">Email Us</div>
                 <div class="contact-info">
-                    <a href="mailto:learnwithkastro@gmail.com" class="contact-link">
+                    <a href="mailto:rajansofficiall@gmail.com" class="contact-link">
                         learnwithkastro@gmail.com
                     </a>
                 </div>
@@ -898,8 +898,8 @@ public class App {
                 </div>
                 <div class="contact-title">Call Us</div>
                 <div class="contact-info">
-                    <a href="tel:+919700712459" class="contact-link">
-                        +91 97007 12459
+                    <a href="tel:+916385348419" class="contact-link">
+                        +91 6385348419
                     </a>
                 </div>
             </div>
@@ -910,7 +910,7 @@ public class App {
                 </div>
                 <div class="contact-title">Website</div>
                 <div class="contact-info">
-                    <a href="https://www.learnwithkastro.com" target="_blank" class="contact-link">
+                    <a href="https://www.youtube.com/channel/UCD6TlGpx7qStqpFdB3SrybA" target="_blank" class="contact-link">
                         www.learnwithkastro.com
                     </a>
                 </div>
@@ -922,8 +922,8 @@ public class App {
                 </div>
                 <div class="contact-title">YouTube Channel</div>
                 <div class="contact-info">
-                    <a href="https://www.youtube.com/@LearnWithKASTRO" target="_blank" class="contact-link youtube-link">
-                        @LearnWithKASTRO
+                    <a href="https://www.youtube.com/channel/UCD6TlGpx7qStqpFdB3SrybA" target="_blank" class="contact-link youtube-link">
+                        @LearnWithStealthcoderX
                     </a>
                     <div style="margin-top: 10px; font-size: 0.9rem; opacity: 0.8;">
                         Watch tutorials & demos
